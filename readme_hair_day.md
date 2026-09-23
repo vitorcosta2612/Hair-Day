@@ -33,24 +33,6 @@ Este projeto foca em boas práticas com **JavaScript Vanilla**, modularização 
 - [x] Cancelamento/remoção de agendamentos com requisição `DELETE`.
 
 ---
-
-## 📁 Estrutura de Pastas
-
-```text
-hair-day/
-├── src/
-│   ├── assets/          # Ícones, imagens e recursos estáticos
-│   ├── libs/            # Configurações de bibliotecas externas (ex: Day.js)
-│   ├── modules/         # Módulos da aplicação (formulário, agenda, renderização)
-│   ├── services/        # Chamadas de API (fetch, post, delete)
-│   ├── styles/          # Folhas de estilo (CSS)
-│   └── main.js          # Ponto de entrada (Entry point do Webpack)
-├── server.json          # Base de dados simulada para a API
-├── webpack.config.js    # Configuração do Webpack e loaders
-├── package.json         # Metadados e dependências do projeto
-└── README.md            # Documentação do projeto
-```
-
 ---
 
 ## 🛠️ Como Executar o Projeto
